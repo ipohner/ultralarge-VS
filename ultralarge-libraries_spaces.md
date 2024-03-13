@@ -7,6 +7,7 @@ where compounds are described by building blocks and reactions.
 
 |Title|Type|Approx. size|Data size| Format(s)|URL|Reference DOI(s)|
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| CH*I*PMUNK | enumerated | 95 million | 109 GB, uncompressed 588 GB | sdf (2D) | [http://www.ewit.ccb.tu-dortmund.de/ag-koch/chipmunk/](http://www.ewit.ccb.tu-dortmund.de/ag-koch/chipmunk/) | [DOI 10.1002/cmdc.201700689](https://doi.org/10.1002/cmdc.201700689)|
 |Enamine REAL space | non-enumerated | 48 billion | | |[enamine.net/compound-collections/real-compounds/real-space-navigator](https://enamine.net/compound-collections/real-compounds/real-space-navigator)||
 |Enamine REAL database | enumerated | 6.75 billion | | cxsmiles, sdf (2D) |[enamine.net/compound-collections/real-compounds/real-database](https://enamine.net/compound-collections/real-compounds/real-database)||
 |Enamine REAL lead-like | enumerated | 3.93 billion | | cxsmiles |[enamine.net/compound-collections/real-compounds/real-database-subsets](https://enamine.net/compound-collections/real-compounds/real-database-subsets)||

@@ -2,7 +2,7 @@
 
 Summary of open-source tools for ultra-large VS and their associated repositories.
 
-**Last checked and updated 2024-06-11**
+**Last checked and updated 2024-11-22**
 
 |Tool|Repository|Reference(s)|
 |:--:|:--:|:--:|

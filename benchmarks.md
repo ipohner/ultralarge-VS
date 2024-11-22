@@ -2,7 +2,7 @@
 
 Summary of ultra-large benchmarking datasets consisting of released compound data and corresponding docking scores.
 
-**Last checked and updated 2024-06-11**
+**Last checked and updated 2024-11-22**
 
 |Campaign reference|Approx. compound library size|Obtain data from|Docking tool|Available format(s)|Target(s)|
 |:--:|:--:|:--:|:--:|:--:|:--:|

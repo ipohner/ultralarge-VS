@@ -2,10 +2,11 @@
 
 Summary of open-source tools for ultra-large VS and their associated repositories.
 
-**Last checked and updated 2024-11-22**
+**Last checked and updated 2024-11-23**
 
 |Tool|Repository|Reference(s)|
 |:--:|:--:|:--:|
+|Conformal Predictor|[GitHub Carlssonlab/conformalpredictor](https://github.com/Carlssonlab/conformalpredictor)|Luttens et al. (2023) _Preprint_. [DOI 10.26434/chemrxiv-2023-w3x36](https://doi.org/10.26434/chemrxiv-2023-w3x36)|
 |DeepDocking|[GitHub jamesgleave/DD_protocol](https://github.com/jamesgleave/DD_protocol)|Gentile et al. (2020) _ACS Cent Sci_ 6(6): 939-949. [DOI 10.1021/acscentsci.0c00229](https://doi.org/10.1021/acscentsci.0c00229)|
 |DeepDocking GUI|[GitHub jamesgleave/DeepDockingGUI](https://github.com/jamesgleave/DeepDockingGUI)|Yaacoub et al. (2022) _Bioinformatics_ 38(4): 1146-1148. [DOI 10.1093/bioinformatics/btab771](https://doi.org/10.1093/bioinformatics/btab771)|
 |HASTEN|[GitHub TuomoKalliokoski/HASTEN](https://github.com/TuomoKalliokoski/HASTEN)|Kalliokoski (2021) _Mol Inform_ 40(9): 2100089. [DOI 10.1002/minf.202100089](https://doi.org/10.1002/minf.202100089)|

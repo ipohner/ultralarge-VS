@@ -2,7 +2,7 @@
 
 List of some freely available ultra-large screening libraries with pre-generated ligand 3D conformers.
 
-**Last checked and updated 2024-11-22**
+**Last checked and updated 2025-02-17**
 
 |Sourced from|Approx. size|Available format(s)|Obtain from|Reference(s)|
 |:--:|:--:|:--:|:--:|:--:|

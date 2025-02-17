@@ -1,8 +1,8 @@
 ## Ultra-large benchmarking datasets
 
-Summary of ultra-large benchmarking datasets consisting of released compound data and corresponding docking scores.
+Some available ultra-large benchmarking datasets (>50 million compounds) consisting of released compound data and corresponding docking scores.
 
-**Last checked and updated 2024-11-23**
+**Last checked and updated 2025-02-17**
 
 |Campaign reference|Approx. compound library size|Obtain data from|Docking tool|Available format(s)|Target(s)|
 |:--:|:--:|:--:|:--:|:--:|:--:|

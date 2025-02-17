@@ -2,6 +2,8 @@
 
 Summary of selected chemical compound libraries and spaces with sizes of at least 50 million compounds. Type describes whether a resource is *enumerated*, i.e. contains fully elaborated compounds or represents a *non-enumerated* space where compounds are described by building blocks and reactions.
 
+N. B. This list is not exhaustive.
+
 **Last checked and updated 2025-02-17**
 
 |Title|Type|Approx. size|Data size| Format(s)|URL|Reference DOI(s)|

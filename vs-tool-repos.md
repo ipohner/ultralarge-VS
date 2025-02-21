@@ -5,7 +5,7 @@ screening library or space the tool uses: _enumerated (libraries)_, _reagent spa
 
 N. B. This list is not exhaustive.
 
-**Last checked and updated 2025-02-17**
+**Last checked and updated 2025-02-21**
 
 |Tool|Repository|Reference(s)|Screening library type|
 |:--:|:--:|:--:|:--:|
@@ -22,6 +22,7 @@ N. B. This list is not exhaustive.
 |PharmacoNet|[GitHub SeonghwanSeo/PharmacoNet](https://github.com/SeonghwanSeo/PharmacoNet) | Seo & Kim (2024) _Chem Sci_ 15: 19473-19487. [DOI 10.1039/D4SC04854G](https://doi.org/10.1039/D4SC04854G) | enumerated |
 |Schrödinger GPU Similarity (incentive)|[GitHub schrodinger/gpusimilarity](https://github.com/schrodinger/gpusimilarity)|| enumerated |
 |SpaceDock|[GitHub litfsindt/LIT-SpaceDock](https://github.com/litfsindt/LIT-SpaceDock)|Sindt et al. (2024) _ACS Cent Sci_ 10(3): 615–627. [DOI 10.1021/acscentsci.3c01521](https://doi.org/10.1021/acscentsci.3c01521)| reagent space|
+|SpaceGA|[GitHub lmoesgaard/SpaceGA](https://github.com/lmoesgaard/SpaceGA)|Moesgaard & Kongsted (2024) _J Chem Inf Model_ 64(21): 8123-8130. [DOI 10.1021/acs.jcim.4c01308](https://doi.org/10.1021/acs.jcim.4c01308)| non-enumerated (also AL, GA: enumerated) |
 |SpaceHASTEN|[GitHub TuomoKalliokoski/SpaceHASTEN](https://github.com/TuomoKalliokoski/SpaceHASTEN)| Kalliokoski et al. (2025) _J Chem Inf Model_ 65(1): 125-132. [DOI 10.1021/acs.jcim.4c01790](https://doi.org/10.1021/acs.jcim.4c01790)| non-enumerated |
 |Thompson sampling|[GitHub PatWalters/TS](https://github.com/PatWalters/TS)|Klarich et al. (2024) _J Chem Inf Model_ 64(4): 1158-1171. [DOI 10.1021/acs.jcim.3c01790](https://doi.org/10.1021/acs.jcim.3c01790)| reagent space|
 |Uni-Dock|[GitHub dptech-corp/Uni-Dock](https://github.com/dptech-corp/Uni-Dock)|Yu et al. (2023) _J Chem Theory Comput_ 19(11): 3336-3345. [DOI 10.1021/acs.jctc.2c01145](https://doi.org/10.1021/acs.jctc.2c01145)| enumerated |
